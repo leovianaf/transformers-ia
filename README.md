@@ -1,5 +1,12 @@
 # Projeto de Processamento de Linguagem Natural com Transformers
 
+## Informações:
+
+* Andreza Maria Coutinho Falcão - andreza.mcfalcao@ufrpe.br
+* Beatriz Pereira da Silva - beatriz.pereiras@ufrpe.br
+* Leonardo da Silva Viana Filho - leonardo.vianafilho@ufrpe.br
+* Victor Schimitz Donato Cavalcanti - victor.schmitz@ufrpe.br
+
 ## Objetivo
 
 Este projeto demonstra como utilizar a biblioteca `transformers` para realizar várias tarefas de Processamento de Linguagem Natural (NLP) com modelos pré-treinados. As tarefas abordadas incluem:
